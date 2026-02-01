@@ -1,0 +1,201 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Student Management System/1.0.0": {
+        "dependencies": {
+          "Guna.Charts.WinForms": "1.1.0",
+          "Guna.UI2.WinForms": "2.0.4.7",
+          "WinForms.DataVisualization": "1.10.0",
+          "Telerik.WinControls": "2025.4.1321.90",
+          "Telerik.WinControls.RichTextEditor": "2025.4.1321.90",
+          "Telerik.WinControls.UI": "2025.4.1321.90",
+          "TelerikData": "2025.4.1321.90"
+        },
+        "runtime": {
+          "Student Management System.dll": {}
+        }
+      },
+      "Guna.Charts.WinForms/1.1.0": {
+        "dependencies": {
+          "System.Management": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0-windows7.0/Guna.Charts.WinForms.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Guna.UI2.WinForms/2.0.4.7": {
+        "dependencies": {
+          "System.Management": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0-windows7.0/Guna.UI2.dll": {
+            "assemblyVersion": "2.0.4.7",
+            "fileVersion": "2.0.4.7"
+          }
+        }
+      },
+      "System.Management/7.0.0": {
+        "runtime": {
+          "lib/net7.0/System.Management.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/System.Management.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "WinForms.DataVisualization/1.10.0": {
+        "runtime": {
+          "lib/net9.0-windows7.0/WinForms.DataVisualization.Utilities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.10.0.0"
+          },
+          "lib/net9.0-windows7.0/WinForms.DataVisualization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.10.0.0"
+          }
+        }
+      },
+      "Telerik.WinControls/2025.4.1321.90": {
+        "runtime": {
+          "Telerik.WinControls.dll": {
+            "assemblyVersion": "2025.4.1321.90",
+            "fileVersion": "2025.4.1321.90"
+          }
+        }
+      },
+      "Telerik.WinControls.RichTextEditor/2025.4.1321.90": {
+        "runtime": {
+          "Telerik.WinControls.RichTextEditor.dll": {
+            "assemblyVersion": "2025.4.1321.90",
+            "fileVersion": "2025.4.1321.90"
+          }
+        }
+      },
+      "Telerik.WinControls.UI/2025.4.1321.90": {
+        "runtime": {
+          "Telerik.WinControls.UI.dll": {
+            "assemblyVersion": "2025.4.1321.90",
+            "fileVersion": "2025.4.1321.90"
+          }
+        }
+      },
+      "TelerikData/2025.4.1321.90": {
+        "runtime": {
+          "TelerikData.dll": {
+            "assemblyVersion": "2025.4.1321.90",
+            "fileVersion": "2025.4.1321.90"
+          }
+        }
+      },
+      "TelerikCommon/2025.4.1321.90": {
+        "runtime": {
+          "TelerikCommon.dll": {
+            "assemblyVersion": "2025.4.1321.90",
+            "fileVersion": "2025.4.1321.90"
+          }
+        }
+      },
+      "Telerik.Windows.Documents.Core/2025.4.1319.80": {
+        "runtime": {
+          "Telerik.Windows.Documents.Core.dll": {
+            "assemblyVersion": "2025.4.1319.80",
+            "fileVersion": "2025.4.1319.80"
+          }
+        }
+      },
+      "Telerik.WinControls.GridView/2025.4.1321.90": {
+        "runtime": {
+          "Telerik.WinControls.GridView.dll": {
+            "assemblyVersion": "2025.4.1321.90",
+            "fileVersion": "2025.4.1321.90"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Student Management System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guna.Charts.WinForms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qHGw3SusTcgUJFWfB91dQKwMxb0+4YBqPqrsFv7oo6E9Ap1OPsuWLafcJTtOzpxRmf8Umns5++xmcZtgL93q1A==",
+      "path": "guna.charts.winforms/1.1.0",
+      "hashPath": "guna.charts.winforms.1.1.0.nupkg.sha512"
+    },
+    "Guna.UI2.WinForms/2.0.4.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8BdBYsfnntuICbFMHIZsd5morwURN8Ucsvq7wJeyLV1Z1ze6CAIxVKEirufgjGIiXfF0M0sCr9EVFloZSazWew==",
+      "path": "guna.ui2.winforms/2.0.4.7",
+      "hashPath": "guna.ui2.winforms.2.0.4.7.nupkg.sha512"
+    },
+    "System.Management/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A4jed4QUviDOm7fJNKAJObEAEkEUXmkGL/w0iyCYTzrl1rezTj8LGFHfsVst4Vb9JwFcTpboiDrvdST48avBpw==",
+      "path": "system.management/7.0.0",
+      "hashPath": "system.management.7.0.0.nupkg.sha512"
+    },
+    "WinForms.DataVisualization/1.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QKFQUf6xnsseiRsWfIeKvbWRJWvOKOvkoec/pWxEjwYrr4Vix4xmAWmvTpJGxoeWRXOzV7Pprm5SCFqzXzBA4g==",
+      "path": "winforms.datavisualization/1.10.0",
+      "hashPath": "winforms.datavisualization.1.10.0.nupkg.sha512"
+    },
+    "Telerik.WinControls/2025.4.1321.90": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telerik.WinControls.RichTextEditor/2025.4.1321.90": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telerik.WinControls.UI/2025.4.1321.90": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TelerikData/2025.4.1321.90": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TelerikCommon/2025.4.1321.90": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telerik.Windows.Documents.Core/2025.4.1319.80": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telerik.WinControls.GridView/2025.4.1321.90": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

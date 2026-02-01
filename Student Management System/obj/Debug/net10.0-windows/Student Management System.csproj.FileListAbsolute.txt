@@ -1,0 +1,42 @@
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Student Management System.exe
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Student Management System.deps.json
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Student Management System.runtimeconfig.json
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Student Management System.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Student Management System.pdb
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student_Management_System.StudentLoginForm.resources
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student Management System.csproj.GenerateResource.cache
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student Management System.AssemblyInfoInputs.cache
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student Management System.AssemblyInfo.cs
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student Management System.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\refint\Student Management System.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student Management System.pdb
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student Management System.genruntimeconfig.cache
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\ref\Student Management System.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student Management System.csproj.AssemblyReference.cache
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student_Management_System.Properties.Resources.resources
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student .B1F29E5F.Up2Date
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student_Management_System.frmMainForm.resources
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student_Management_System.frmStudentform.resources
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student_Management_System.frmDashboard.resources
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net10.0-windows\Student_Management_System.ACC_DASH.resources
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Guna.Charts.WinForms.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Telerik.WinControls.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Telerik.WinControls.UI.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\TelerikData.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\TelerikCommon.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Telerik.Windows.Documents.Core.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Telerik.WinControls.GridView.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Telerik.WinControls.xml
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Telerik.WinControls.UI.xml
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\TelerikData.xml
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Telerik.Windows.Documents.Core.xml
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net10.0-windows\Telerik.WinControls.GridView.xml

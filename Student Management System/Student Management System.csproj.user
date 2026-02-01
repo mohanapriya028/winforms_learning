@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\ACC DASH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\StudentLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmStudentform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

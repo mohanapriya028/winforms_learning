@@ -1,0 +1,14 @@
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net8.0-windows\Student Management System.exe
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net8.0-windows\Student Management System.deps.json
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net8.0-windows\Student Management System.runtimeconfig.json
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net8.0-windows\Student Management System.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\bin\Debug\net8.0-windows\Student Management System.pdb
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net8.0-windows\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net8.0-windows\Student Management System.AssemblyInfoInputs.cache
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net8.0-windows\Student Management System.AssemblyInfo.cs
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net8.0-windows\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net8.0-windows\Student Management System.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net8.0-windows\refint\Student Management System.dll
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net8.0-windows\Student Management System.pdb
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net8.0-windows\Student Management System.genruntimeconfig.cache
+C:\Users\Shankar\source\repos\My Project\Student Management System\obj\Debug\net8.0-windows\ref\Student Management System.dll

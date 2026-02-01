@@ -1,0 +1,61 @@
+[
+  { "uniqueId": "MAT-001", "materialName": "Thread", "materialType": "Trim", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-01" },
+  { "uniqueId": "MAT-002", "materialName": "Zipper", "materialType": "Accessory", "status": "Pending", "materialStatus": "Memo", "date": "2025-01-02" },
+  { "uniqueId": "MAT-003", "materialName": "Button", "materialType": "Accessory", "status": "Rejected", "materialStatus": "PO", "date": "2025-01-03" },
+  { "uniqueId": "MAT-004", "materialName": "Label", "materialType": "Labeling", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-04" },
+  { "uniqueId": "MAT-005", "materialName": "Price Tag", "materialType": "Packing", "status": "Pending", "materialStatus": "Memo", "date": "2025-01-05" },
+
+  { "uniqueId": "MAT-006", "materialName": "Thread", "materialType": "Trim", "status": "Rejected", "materialStatus": "PO", "date": "2025-01-06" },
+  { "uniqueId": "MAT-007", "materialName": "Zipper", "materialType": "Accessory", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-07" },
+  { "uniqueId": "MAT-008", "materialName": "Button", "materialType": "Accessory", "status": "Pending", "materialStatus": "Memo", "date": "2025-01-08" },
+  { "uniqueId": "MAT-009", "materialName": "Label", "materialType": "Labeling", "status": "Rejected", "materialStatus": "PO", "date": "2025-01-09" },
+  { "uniqueId": "MAT-010", "materialName": "Price Tag", "materialType": "Packing", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-10" },
+
+  { "uniqueId": "MAT-011", "materialName": "Thread", "materialType": "Trim", "status": "Pending", "materialStatus": "Memo", "date": "2025-01-11" },
+  { "uniqueId": "MAT-012", "materialName": "Zipper", "materialType": "Accessory", "status": "Rejected", "materialStatus": "PO", "date": "2025-01-12" },
+  { "uniqueId": "MAT-013", "materialName": "Button", "materialType": "Accessory", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-13" },
+  { "uniqueId": "MAT-014", "materialName": "Label", "materialType": "Labeling", "status": "Pending", "materialStatus": "Memo", "date": "2025-01-14" },
+  { "uniqueId": "MAT-015", "materialName": "Price Tag", "materialType": "Packing", "status": "Rejected", "materialStatus": "PO", "date": "2025-01-15" },
+
+  { "uniqueId": "MAT-016", "materialName": "Thread", "materialType": "Trim", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-16" },
+  { "uniqueId": "MAT-017", "materialName": "Zipper", "materialType": "Accessory", "status": "Pending", "materialStatus": "Memo", "date": "2025-01-17" },
+  { "uniqueId": "MAT-018", "materialName": "Button", "materialType": "Accessory", "status": "Rejected", "materialStatus": "PO", "date": "2025-01-18" },
+  { "uniqueId": "MAT-019", "materialName": "Label", "materialType": "Labeling", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-19" },
+  { "uniqueId": "MAT-020", "materialName": "Price Tag", "materialType": "Packing", "status": "Pending", "materialStatus": "Memo", "date": "2025-01-20" },
+
+  { "uniqueId": "MAT-021", "materialName": "Thread", "materialType": "Trim", "status": "Rejected", "materialStatus": "PO", "date": "2025-01-21" },
+  { "uniqueId": "MAT-022", "materialName": "Zipper", "materialType": "Accessory", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-22" },
+  { "uniqueId": "MAT-023", "materialName": "Button", "materialType": "Accessory", "status": "Pending", "materialStatus": "Memo", "date": "2025-01-23" },
+  { "uniqueId": "MAT-024", "materialName": "Label", "materialType": "Labeling", "status": "Rejected", "materialStatus": "PO", "date": "2025-01-24" },
+  { "uniqueId": "MAT-025", "materialName": "Price Tag", "materialType": "Packing", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-25" },
+
+  { "uniqueId": "MAT-026", "materialName": "Thread", "materialType": "Trim", "status": "Pending", "materialStatus": "Memo", "date": "2025-01-26" },
+  { "uniqueId": "MAT-027", "materialName": "Zipper", "materialType": "Accessory", "status": "Rejected", "materialStatus": "PO", "date": "2025-01-27" },
+  { "uniqueId": "MAT-028", "materialName": "Button", "materialType": "Accessory", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-28" },
+  { "uniqueId": "MAT-029", "materialName": "Label", "materialType": "Labeling", "status": "Pending", "materialStatus": "Memo", "date": "2025-01-29" },
+  { "uniqueId": "MAT-030", "materialName": "Price Tag", "materialType": "Packing", "status": "Rejected", "materialStatus": "PO", "date": "2025-01-30" },
+
+  { "uniqueId": "MAT-031", "materialName": "Thread", "materialType": "Trim", "status": "Approved", "materialStatus": "BOM", "date": "2025-01-31" },
+  { "uniqueId": "MAT-032", "materialName": "Zipper", "materialType": "Accessory", "status": "Pending", "materialStatus": "Memo", "date": "2025-02-01" },
+  { "uniqueId": "MAT-033", "materialName": "Button", "materialType": "Accessory", "status": "Rejected", "materialStatus": "PO", "date": "2025-02-02" },
+  { "uniqueId": "MAT-034", "materialName": "Label", "materialType": "Labeling", "status": "Approved", "materialStatus": "BOM", "date": "2025-02-03" },
+  { "uniqueId": "MAT-035", "materialName": "Price Tag", "materialType": "Packing", "status": "Pending", "materialStatus": "Memo", "date": "2025-02-04" },
+
+  { "uniqueId": "MAT-036", "materialName": "Thread", "materialType": "Trim", "status": "Rejected", "materialStatus": "PO", "date": "2025-02-05" },
+  { "uniqueId": "MAT-037", "materialName": "Zipper", "materialType": "Accessory", "status": "Approved", "materialStatus": "BOM", "date": "2025-02-06" },
+  { "uniqueId": "MAT-038", "materialName": "Button", "materialType": "Accessory", "status": "Pending", "materialStatus": "Memo", "date": "2025-02-07" },
+  { "uniqueId": "MAT-039", "materialName": "Label", "materialType": "Labeling", "status": "Rejected", "materialStatus": "PO", "date": "2025-02-08" },
+  { "uniqueId": "MAT-040", "materialName": "Price Tag", "materialType": "Packing", "status": "Approved", "materialStatus": "BOM", "date": "2025-02-09" },
+
+  { "uniqueId": "MAT-041", "materialName": "Thread", "materialType": "Trim", "status": "Pending", "materialStatus": "Memo", "date": "2025-02-10" },
+  { "uniqueId": "MAT-042", "materialName": "Zipper", "materialType": "Accessory", "status": "Rejected", "materialStatus": "PO", "date": "2025-02-11" },
+  { "uniqueId": "MAT-043", "materialName": "Button", "materialType": "Accessory", "status": "Approved", "materialStatus": "BOM", "date": "2025-02-12" },
+  { "uniqueId": "MAT-044", "materialName": "Label", "materialType": "Labeling", "status": "Pending", "materialStatus": "Memo", "date": "2025-02-13" },
+  { "uniqueId": "MAT-045", "materialName": "Price Tag", "materialType": "Packing", "status": "Rejected", "materialStatus": "PO", "date": "2025-02-14" },
+
+  { "uniqueId": "MAT-046", "materialName": "Thread", "materialType": "Trim", "status": "Approved", "materialStatus": "BOM", "date": "2025-02-15" },
+  { "uniqueId": "MAT-047", "materialName": "Zipper", "materialType": "Accessory", "status": "Pending", "materialStatus": "Memo", "date": "2025-02-16" },
+  { "uniqueId": "MAT-048", "materialName": "Button", "materialType": "Accessory", "status": "Rejected", "materialStatus": "PO", "date": "2025-02-17" },
+  { "uniqueId": "MAT-049", "materialName": "Label", "materialType": "Labeling", "status": "Approved", "materialStatus": "BOM", "date": "2025-02-18" },
+  { "uniqueId": "MAT-050", "materialName": "Price Tag", "materialType": "Packing", "status": "Pending", "materialStatus": "Memo", "date": "2025-02-19" }
+]
