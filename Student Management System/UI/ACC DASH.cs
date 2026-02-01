@@ -200,6 +200,7 @@ namespace Student_Management_System
         private void btnview_Click(object sender, EventArgs e)
         {
             LoadManualData();
+            // Dummy
         }
 
         private void chart3_Click(object sender, EventArgs e)
